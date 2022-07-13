@@ -4,3 +4,4 @@
 # IP-CIDR,127.0.0.0/8,no-resolve
 # DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-KEYWORD,dl-a10b
+DOMAIN-KEYWORD,aliyun
