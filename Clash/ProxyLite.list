@@ -8,8 +8,8 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,okx
-;DOMAIN-KEYWORD,huobi
-;DOMAIN-KEYWORD,bitget
+# DOMAIN-KEYWORD,huobi
+# DOMAIN-KEYWORD,bitget
 DOMAIN-KEYWORD,scan
 DOMAIN-KEYWORD,ftx
 DOMAIN-KEYWORD,imdb
@@ -17,7 +17,7 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,leetcode.com
-;DOMAIN,mypikpak.com
-;DOMAIN-SUFFIX,user.mypikpak.com
-;DOMAIN-SUFFIX,api-drive.mypikpak.com
-;DOMAIN-SUFFIX,access.mypikpak.com
+# DOMAIN,mypikpak.com
+# DOMAIN-SUFFIX,user.mypikpak.com
+# DOMAIN-SUFFIX,api-drive.mypikpak.com
+# DOMAIN-SUFFIX,access.mypikpak.com
