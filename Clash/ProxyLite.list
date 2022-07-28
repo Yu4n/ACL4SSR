@@ -3,14 +3,11 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,tradingview
-# DOMAIN-KEYWORD,mine
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bn
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,okx
-# DOMAIN-KEYWORD,huobi
-# DOMAIN-KEYWORD,bitget
 DOMAIN-KEYWORD,scan
 DOMAIN-KEYWORD,ftx
 DOMAIN-KEYWORD,imdb
@@ -22,3 +19,4 @@ DOMAIN-SUFFIX,leetcode.com
 # DOMAIN-SUFFIX,user.mypikpak.com
 # DOMAIN-SUFFIX,api-drive.mypikpak.com
 # DOMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-KEYWORD,cloud
