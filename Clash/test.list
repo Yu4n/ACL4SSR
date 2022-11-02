@@ -1,0 +1,26 @@
+DOMAIN-KEYWORD,google
+# DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,wikipedia
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,tradingview
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,bn
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,scan
+DOMAIN-KEYWORD,ftx
+DOMAIN-KEYWORD,bit
+DOMAIN-KEYWORD,imdb
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,yahoo
+DOMAIN-SUFFIX,leetcode.com
+# DOMAIN,mypikpak.com
+# DOMAIN-SUFFIX,user.mypikpak.com
+# DOMAIN-SUFFIX,api-drive.mypikpak.com
+# DOMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-KEYWORD,cloud
+DOMAIN-KEYWORD,coin
+DOMAIN-KEYWORD,feixiaohao
+# DOMAIN-KEYWORD,twitch
