@@ -1,5 +1,4 @@
 DOMAIN-KEYWORD,google
-# DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,tradingview
@@ -23,4 +22,3 @@ DOMAIN-SUFFIX,leetcode.com
 DOMAIN-KEYWORD,cloud
 DOMAIN-KEYWORD,coin
 DOMAIN-KEYWORD,feixiaohao
-# DOMAIN-KEYWORD,twitch
