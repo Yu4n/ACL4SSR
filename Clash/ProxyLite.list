@@ -5,14 +5,11 @@ DOMAIN-KEYWORD,twitch
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,tradingview
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,scan
 DOMAIN-KEYWORD,imdb
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,yahoo
-DOMAIN-SUFFIX,leetcode.com
 # DOMAIN,mypikpak.com
 # DOMAIN-SUFFIX,user.mypikpak.com
 # DOMAIN-SUFFIX,api-drive.mypikpak.com
@@ -24,7 +21,7 @@ DOMAIN-KEYWORD,exchange
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,steam
-DOMAIN-SUFFIX,clmclm.com
 DOMAIN-KEYWORD,coinglass
 DOMAIN-KEYWORD,coinank
 DOMAIN-KEYWORD,v2ex
+DOMAIN-KEYWORD,claude
