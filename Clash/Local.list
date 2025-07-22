@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,xhdev.xyz
 DOMAIN-SUFFIX,qq.com
 DOMAIN-KEYWORD,msftconnect
 DOMAIN-SUFFIX,suitechsui.io
-DOMAIN-KEYWORD,92.119.126
+IP-CIDR,92.119.126.0/8,no-resolve
