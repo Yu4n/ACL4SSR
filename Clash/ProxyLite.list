@@ -18,7 +18,10 @@ DOMAIN-KEYWORD,bt4g
 DOMAIN-KEYWORD,exchange
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,linkedin
-DOMAIN-KEYWORD,steam
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,steamcharts.com
 DOMAIN-KEYWORD,coinglass
 DOMAIN-KEYWORD,coinank
 DOMAIN-KEYWORD,v2ex
