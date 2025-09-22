@@ -13,12 +13,11 @@ DOMAIN-KEYWORD,yahoo
 # DOMAIN-SUFFIX,user.mypikpak.com
 # DOMAIN-SUFFIX,api-drive.mypikpak.com
 # DOMAIN-SUFFIX,access.mypikpak.com
-DOMAIN-KEYWORD,feixiaohao
 DOMAIN-KEYWORD,bt4g
-DOMAIN-KEYWORD,exchange
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,linkedin
-DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-KEYWORD,steam
+# DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-KEYWORD,coinglass
 DOMAIN-KEYWORD,coinank
 DOMAIN-KEYWORD,v2ex
