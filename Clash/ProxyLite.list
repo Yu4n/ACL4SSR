@@ -11,12 +11,10 @@ DOMAIN-KEYWORD,yahoo
 # DOMAIN-SUFFIX,api-drive.mypikpak.com
 # DOMAIN-SUFFIX,access.mypikpak.com
 DOMAIN-KEYWORD,bt4g
-DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,linkedin
 # DOMAIN-KEYWORD,steam
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-KEYWORD,v2ex
-DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,mushroom
 DOMAIN-KEYWORD,fun.xyz
