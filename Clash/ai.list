@@ -1,5 +1,145 @@
-DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,chatgpt
-DOMAIN-KEYWORD,gemini
+# ===== AI Rules =====
+
+# ===== Apple Intelligence =====
+DOMAIN-KEYWORD,apple-wit,no-policy
+DOMAIN-SUFFIX,apple-cloudkit.com,no-policy
+DOMAIN-SUFFIX,apple-livephotos.com,no-policy
+DOMAIN-KEYWORD,intelligence.apple.com,no-policy
+DOMAIN-KEYWORD,madservices.apple.com,no-policy
+DOMAIN-KEYWORD,guzzoni.apple.com,no-policy
+DOMAIN-KEYWORD,smoot.apple.com,no-policy
+DOMAIN-KEYWORD,api.apple-cloudkit.com,no-policy
+DOMAIN-KEYWORD,blackbird.apple.com,no-policy
+
+# ===== 通用（AI 服务共用的基础设施） =====
+DOMAIN-KEYWORD,api.statsig.com,no-policy
+DOMAIN-SUFFIX,auth0.com,no-policy
+DOMAIN-SUFFIX,arkoselabs.com,no-policy
+DOMAIN-SUFFIX,statsigapi.net,no-policy
+DOMAIN-SUFFIX,cloudflareinsights.com,no-policy
+
+# ===== OpenAI / ChatGPT =====
+DOMAIN-SUFFIX,openai.com,no-policy
+DOMAIN-SUFFIX,chatgpt.com,no-policy
+DOMAIN-SUFFIX,oaistatic.com,no-policy
+DOMAIN-SUFFIX,oaiusercontent.com,no-policy
+DOMAIN-SUFFIX,sora.com,no-policy
+DOMAIN-SUFFIX,livekit.cloud,no-policy
+
+# ===== Anthropic / Claude =====
+DOMAIN-SUFFIX,anthropic.com,no-policy
+DOMAIN-SUFFIX,claude.ai,no-policy
+DOMAIN-SUFFIX,claude.com,no-policy
+DOMAIN-SUFFIX,claudeusercontent.com,no-policy
+
+# ===== Google AI（Gemini / NotebookLM）=====
+DOMAIN-SUFFIX,ai.google,no-policy
+DOMAIN-KEYWORD,ai.google.dev,no-policy
+DOMAIN-KEYWORD,makersuite.google.com,no-policy
+DOMAIN-KEYWORD,aistudio.google.com,no-policy
+DOMAIN-SUFFIX,gemini.google.com,no-policy
+DOMAIN-SUFFIX,notebooklm.google.com,no-policy
+DOMAIN-SUFFIX,notebooklm.google,no-policy
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,no-policy
+DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com,no-policy
+DOMAIN-SUFFIX,deepmind.com,no-policy
+DOMAIN-SUFFIX,deepmind.google,no-policy
+DOMAIN-SUFFIX,generativeai.google,no-policy
+DOMAIN-SUFFIX,colab.google.com,no-policy
+
+# ===== Microsoft Copilot =====
+DOMAIN-KEYWORD,copilot.microsoft.com,no-policy
+DOMAIN-SUFFIX,edgeservices.bing.com,no-policy
+DOMAIN-SUFFIX,bingapis.com,no-policy
+DOMAIN-KEYWORD,www.bing.com,no-policy
+DOMAIN-KEYWORD,r.bing.com,no-policy
+DOMAIN-KEYWORD,sydney.bing.com,no-policy
+DOMAIN-KEYWORD,services.bingapis.com,no-policy
+DOMAIN-KEYWORD,api.msn.com,no-policy
+
+# ===== Perplexity =====
+DOMAIN-SUFFIX,perplexity.ai,no-policy
+DOMAIN-SUFFIX,perplexity.com,no-policy
+DOMAIN-SUFFIX,pplx.ai,no-policy
+
+# ===== Poe =====
+DOMAIN-SUFFIX,poe.com,no-policy
+DOMAIN-SUFFIX,poecdn.net,no-policy
+
+# ===== xAI / Grok =====
+DOMAIN-SUFFIX,x.ai,no-policy
+DOMAIN-SUFFIX,grok.com,no-policy
+
+# ===== Character.ai =====
+DOMAIN-SUFFIX,character.ai,no-policy
+DOMAIN-SUFFIX,c.ai,no-policy
+
+# ===== Midjourney =====
+DOMAIN-SUFFIX,midjourney.com,no-policy
+
+# ===== 图像生成 =====
+DOMAIN-SUFFIX,stability.ai,no-policy
+DOMAIN-SUFFIX,recraft.ai,no-policy
+DOMAIN-SUFFIX,ideogram.ai,no-policy
+DOMAIN-SUFFIX,playground.ai,no-policy
+DOMAIN-SUFFIX,leonardo.ai,no-policy
+
+# ===== 视频生成 =====
+DOMAIN-SUFFIX,runwayml.com,no-policy
+DOMAIN-SUFFIX,lumalabs.ai,no-policy
+DOMAIN-SUFFIX,pika.art,no-policy
+DOMAIN-SUFFIX,klingai.com,no-policy
+DOMAIN-SUFFIX,synthesia.io,no-policy
+DOMAIN-SUFFIX,heygen.com,no-policy
+DOMAIN-SUFFIX,d-id.com,no-policy
+
+# ===== 语音 / 音乐 AI =====
+DOMAIN-SUFFIX,elevenlabs.io,no-policy
+DOMAIN-SUFFIX,murf.ai,no-policy
+DOMAIN-SUFFIX,suno.com,no-policy
+DOMAIN-SUFFIX,suno.ai,no-policy
+DOMAIN-SUFFIX,udio.com,no-policy
+
+# ===== GitHub Copilot =====
+DOMAIN-SUFFIX,githubcopilot.com,no-policy
+DOMAIN-KEYWORD,api.githubcopilot.com,no-policy
+DOMAIN-KEYWORD,api.github.com,no-policy
+DOMAIN-KEYWORD,github.githubassets.com,no-policy
+
+# ===== 代码 / 开发 AI =====
+DOMAIN-SUFFIX,cursor.sh,no-policy
+DOMAIN-SUFFIX,cursor.com,no-policy
+DOMAIN-SUFFIX,codeium.com,no-policy
+DOMAIN-SUFFIX,windsurf.com,no-policy
+DOMAIN-SUFFIX,replit.com,no-policy
+DOMAIN-SUFFIX,tabnine.com,no-policy
+DOMAIN-SUFFIX,v0.dev,no-policy
+DOMAIN-SUFFIX,bolt.new,no-policy
+
+# ===== LLM 平台 / API =====
+DOMAIN-SUFFIX,huggingface.co,no-policy
+DOMAIN-SUFFIX,replicate.com,no-policy
+DOMAIN-SUFFIX,cohere.com,no-policy
+DOMAIN-SUFFIX,mistral.ai,no-policy
+DOMAIN-SUFFIX,groq.com,no-policy
+DOMAIN-SUFFIX,cerebras.ai,no-policy
+DOMAIN-SUFFIX,together.ai,no-policy
+DOMAIN-SUFFIX,modal.com,no-policy
+DOMAIN-SUFFIX,openrouter.ai,no-policy
+
+# ===== 搜索 AI =====
+DOMAIN-SUFFIX,you.com,no-policy
+
+# ===== 内容 / 写作 AI =====
+DOMAIN-SUFFIX,jasper.ai,no-policy
+DOMAIN-SUFFIX,copy.ai,no-policy
+DOMAIN-SUFFIX,writesonic.com,no-policy
+
+# ===== 设计 AI =====
+DOMAIN-SUFFIX,canva.com,no-policy
+DOMAIN-SUFFIX,figma.com,no-policy
+
+# ===== 其他 AI =====
+DOMAIN-SUFFIX,dify.ai,no-policy
+DOMAIN-SUFFIX,grazie.ai,no-policy
+DOMAIN-SUFFIX,meta.ai,no-policy
